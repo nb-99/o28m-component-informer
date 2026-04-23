@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: o28m-component-informer
+  main:
+    banner-mode: off
+    web-application-type: none
